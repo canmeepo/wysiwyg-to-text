@@ -1,4 +1,4 @@
-# helpda
+# wysiwyg-to-text
 
 Strip HTML tags, tabs, spaces from WYSIWYG field output
 
