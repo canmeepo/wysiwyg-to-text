@@ -21,7 +21,7 @@ const wysiwygOutput = `
 <p>Lorem&nbsp;ipsum &nbsp;leo cursus quisque&nbsp;sodales rutrum&nbsp; <p>mattisо</p></p>
 `
 
-parse(wisiwygOutput) ///  Lorem ipsum leo cursus quisque sodales rutrum mattisо
+parse(wysiwygOutput) ///  Lorem ipsum leo cursus quisque sodales rutrum mattisо
 
 ```
 
