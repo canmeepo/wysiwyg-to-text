@@ -1,0 +1,27 @@
+{
+  "name": "wysiwyg-to-text",
+  "version": "1.0.0",
+  "description": "Strip HTML tags from WYSIWYG field output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wysiwyg",
+    "strip",
+    "util"
+  ],
+  "author": "canmeepo <https://github.com/canmeepo/>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canmeepo/wysiwyg-to-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/canmeepo/wysiwyg-to-text/issues"
+  },
+  "files": [
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/canmeepo/wysiwyg-to-text/#readme"
+}
